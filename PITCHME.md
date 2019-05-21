@@ -3,6 +3,8 @@
 Ryoichi KATAOKA @LIFE PEPPER inc.
 (Twitter: @je_suis_laterre Facebook: Kataoka Ryoichi Github: cheapthrillandwine)
 
+---
+
 ### WHO AM I ?
 
 NAME: Ryoichi KATAOKA 
@@ -19,7 +21,7 @@ Experience: Software Developer(11/2018 - )/Machine Learning Engineer(01/2018 - 0
 
 ### HOW LONG TIME AND MANY DEVELOPER ?
 
-FRONT END ===> 1(ME)
-BACK  END ===> 2(NOT FULL COMMIT)
+FRONT END ===> 1(ME)<br>
+BACK  END ===> 2(NOT FULL COMMIT)<br>
 
 #### TOTAL *3* LOL
