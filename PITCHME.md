@@ -1,20 +1,23 @@
 ### HOW TO RELEASE FAST FOR A FLUTTER BEGINNER ?
 
-Ryoichi KATAOKA @LIFE PEPPER inc.
-(Twitter: @je_suis_laterre Facebook: Kataoka Ryoichi Github: cheapthrillandwine)
+Ryoichi KATAOKA @LIFE PEPPER inc. <br>
+
+Twitter: @je_suis_laterre <br>
+Facebook: Kataoka Ryoichi <br>
+Github: cheapthrillandwine
 
 ---
 
 ### WHO AM I ?
 
-NAME: Ryoichi KATAOKA 
-AGE: 27
-Experience: Software Developer(11/2018 - )<br>
+NAME: Ryoichi KATAOKA <br>
+AGE: 27 <br>
+Experience: Software Developer(11/2018 - ) <br>
 Machine Learning Engineer(01/2018 - 01/2019)
 
 ---
 
-### Rec Loc Japan version 1.0 ON Release at 20/05/2019 !!!
+### Rec Loc Japan version 1.0 <br> ON Release at 20/05/2019 !!!
 
 
 
