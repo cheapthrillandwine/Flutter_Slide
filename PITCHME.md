@@ -9,7 +9,8 @@ Ryoichi KATAOKA @LIFE PEPPER inc.
 
 NAME: Ryoichi KATAOKA 
 AGE: 27
-Experience: Software Developer(11/2018 - )/Machine Learning Engineer(01/2018 - 01/2019)
+Experience: Software Developer(11/2018 - )<br>
+Machine Learning Engineer(01/2018 - 01/2019)
 
 ---
 
@@ -19,9 +20,17 @@ Experience: Software Developer(11/2018 - )/Machine Learning Engineer(01/2018 - 0
 
 ---
 
-### HOW LONG TIME AND MANY DEVELOPER ?
+### HOW MANY DEVELOPERS ?
 
 FRONT END ===> 1(ME)<br>
 BACK  END ===> 2(NOT FULL COMMIT)<br>
 
-#### TOTAL *3* LOL
+#### TOTAL **3** (LOL)
+
+---
+
+### HOW LONG TIME ?
+
+ABOUT **30** DAYS (!!)
+
+
