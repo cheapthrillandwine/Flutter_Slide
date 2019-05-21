@@ -10,14 +10,14 @@ Github: cheapthrillandwine
 
 ### WHO AM I ?
 
-**EXPERIENCE:** <br>
+**EXPERIENCE**: <br>
 Software Developer(11/2018 - ) <br>
 Machine Learning Engineer(01/2018 - 01/2019) <br>
 
-**LANGUAGE**
+**LANGUAGE**: <br>
 Python / JavaScript / React Native / Flutter 
 
-**INTEREST**
+**INTEREST**: <br>
 Elm / Go
 
 ---
