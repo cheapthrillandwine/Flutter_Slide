@@ -37,6 +37,7 @@ BACK  END ==> **2**(NOT FULL COMMIT) <br>
 
 ### HOW LONG TIME ?
 
-ABOUT **30** DAYS (!!)
+ABOUT **30** DAYS
+
 
 
