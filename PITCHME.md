@@ -259,7 +259,7 @@ Future <List<Article>> getData() async {
 ### FUTURE
 
 - BLoC (Bussiness Login Component) Pattern
-- Architecture (Onion or Clean Architecture)
+- Animation
 - Web App Release
 ...
 
