@@ -68,8 +68,6 @@ ABOUT **30** DAYS
 
 ![PIC](widgetTree.png)
 
-###### (https://flutter.dev/docs/development/ui/layout)
-
 +++
 
 🤔
