@@ -44,7 +44,7 @@ ABOUT **30** DAYS
 ### DIFFICULTY
 
 - Widget
-- Design
+- Video
 - JSON Parsing
 
 --- 
@@ -76,6 +76,27 @@ ABOUT **30** DAYS
 
 ###### (https://flutter.dev/docs/development/ui/layout)
 
+---
+
+### HOW TO PLAY VIDEO STREAMING ??
+😇
+
++++
+
+### video_player ??
+
+- Loading Slowly
+- Streaming Sometimes Stop
+- Unstable
+
++++
+
+### 😢
+
+
++++ 
+
+### Chewie
 
 
 
