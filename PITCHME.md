@@ -258,6 +258,7 @@ Future <List<Article>> getData() async {
 
 ### FUTURE
 
+- Test Code
 - BLoC (Bussiness Login Component) Pattern
 - Animation
 - Web App Release
