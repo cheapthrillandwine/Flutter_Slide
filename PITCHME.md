@@ -20,6 +20,13 @@ Python / JavaScript / React Native / Flutter
 **INTEREST**: <br>
 Elm / Go
 
+--- 
+
+### LIFE PEPPER
+
+![PIC](lifepepper.png)
+
+
 ---
 
 ### Rec Loc Japan version 1.0 <br> ON Release at 20/05/2019 !!!
@@ -28,7 +35,7 @@ Elm / Go
 
 ### Rec Loc
 
-![PIC](widgetTree.png)
+![PIC](ReclocJapan.png)
 
 ### HOW MANY DEVELOPERS ?
 
