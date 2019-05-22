@@ -84,6 +84,10 @@ ABOUT **30** DAYS
 
 ###### (https://flutter.dev/docs/development/ui/layout)
 
++++
+
+### 😊
+
 ---
 
 ### HOW TO PLAY VIDEO STREAMING ??
@@ -237,4 +241,17 @@ Future <List<Article>> getData() async {
 
 +++
 
-### 😆 
+### 😆
+
+---
+
+### FUTURE
+
+- BLoC (Bussiness Login Component) Pattern
+- Architecture (Onion or Clean Architecture)
+- Web App Release
+...
+
+-- 
+### Thanks 
+😆😆😆
