@@ -22,7 +22,7 @@ Elm / Go
 
 --- 
 
-
+![PIC](lifepepper.png)
 
 ---
 
