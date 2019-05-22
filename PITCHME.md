@@ -2,17 +2,17 @@
 
 #### Ryoichi KATAOKA @LIFE PEPPER inc. <br>
 
-Twitter: @je_suis_laterre <br>
-LinkedIn: Ryoichi KATAOKA <br>
-Github: cheapthrillandwine
+- Twitter: @je_suis_laterre <br>
+- LinkedIn: Ryoichi KATAOKA <br>
+- Github: cheapthrillandwine
 
 ---
 
 ### WHO AM I ?
 
 **EXPERIENCE**: <br>
-Software Developer(11/2018 - ) <br>
-Machine Learning Engineer(01/2018 - 01/2019) <br>
+- Software Developer(11/2018 - ) <br>
+- Machine Learning Engineer(01/2018 - 01/2019) <br>
 
 **LANGUAGE**: <br>
 Python / JavaScript / React Native / Flutter 
@@ -36,8 +36,8 @@ Elm / Go
 
 ### HOW MANY DEVELOPERS ?
 
-FRONT END ==> **1**(ME) <br>
-BACK  END ==> **2**(NOT FULL COMMIT) <br>
+- FRONT END ==> **1**(ME) <br>
+- BACK  END ==> **2**(NOT FULL COMMIT) <br>
 
 #### TOTAL **3** (LOL)
 
@@ -245,6 +245,15 @@ Future <List<Article>> getData() async {
 
 ---
 
+### CONCLUSION
+
+1. UNDERSTADING WIDGETS
+2. CONCENTRATE CORE FUNCTION
+3. KWONLEDGE JSON PARSING & ASYNCHRONOUS
+
+(just for me...)
+---
+
 ### FUTURE
 
 - BLoC (Bussiness Login Component) Pattern
@@ -252,6 +261,7 @@ Future <List<Article>> getData() async {
 - Web App Release
 ...
 
--- 
+---
+
 ### Thanks 
 😆😆😆
