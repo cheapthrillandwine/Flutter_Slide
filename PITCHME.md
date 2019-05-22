@@ -1,4 +1,4 @@
-### HOW TO RELEASE FAST FOR A FLUTTER BEGINNER ?
+### HOW TO RELEASE 30 DAYS FOR A FLUTTER BEGINNER ?
 
 #### Ryoichi KATAOKA @LIFE PEPPER inc. <br>
 
@@ -39,5 +39,13 @@ BACK  END ==> **2**(NOT FULL COMMIT) <br>
 
 ABOUT **30** DAYS
 
+### DIFFICULTY
+
+- Widget
+- Design
+- JSON Parsing
+
+### WHAT IS THE WIDGET !!??
+ 
 
 
