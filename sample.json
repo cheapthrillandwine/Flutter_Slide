@@ -1,7 +1,7 @@
 [{
   "id":1,
   "name":"ProductName",
-  "title": "ProductTitle"
+  "title": "ProductTitle",
   "images":[
     {
       "id":11,
@@ -12,7 +12,7 @@
     },
     {
       "id":31,
-      "imageName":"fjs-eun"
+      "imageName":"fjs-eun",
       "title": "fugafuga",
       "imageUrl": "fugafuga.jpg",
       "videoUrl": "fugafuga.mp4"
