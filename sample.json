@@ -1,0 +1,21 @@
+[{
+  "id":1,
+  "name":"ProductName",
+  "title": "ProductTitle"
+  "images":[
+    {
+      "id":11,
+      "imageName":"xCh-rhy",
+      "title": "hogehoge",
+      "imageUrl": "hogehoge.jpg",
+      "videoUrl": "hogeohoge.mp4"
+    },
+    {
+      "id":31,
+      "imageName":"fjs-eun"
+      "title": "fugafuga",
+      "imageUrl": "fugafuga.jpg",
+      "videoUrl": "fugafuga.mp4"
+    }
+  ]
+}]
