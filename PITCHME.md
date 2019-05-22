@@ -39,11 +39,15 @@ BACK  END ==> **2**(NOT FULL COMMIT) <br>
 
 ABOUT **30** DAYS
 
+--- 
+
 ### DIFFICULTY
 
 - Widget
 - Design
 - JSON Parsing
+
+--- 
 
 ### WHAT IS THE WIDGET !!??
  
