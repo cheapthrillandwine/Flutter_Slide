@@ -26,6 +26,10 @@ Elm / Go
 
 ---
 
+### Rec Loc
+
+![PIC](widgetTree.png)
+
 ### HOW MANY DEVELOPERS ?
 
 FRONT END ==> **1**(ME) <br>
