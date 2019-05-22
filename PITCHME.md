@@ -84,6 +84,7 @@ ABOUT **30** DAYS
 +++
 
 ### video_player ??
+Github:[video_player](https://github.com/flutter/plugins/tree/master/packages/video_player)
 
 - Loading Slowly
 - Streaming Sometimes Stop
@@ -93,11 +94,19 @@ ABOUT **30** DAYS
 
 ### 😢
 
-
 +++ 
 
 ### Chewie
+Github:[chewie](https://github.com/brianegan/chewie)
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Flutterのvideo_playerからchewieに変えたら、めちゃくちゃ読み込みが早くなったんだけれど（大体10倍くらい）、本当にこれで良いのか不安になるので、ここら辺の実装はちゃんと見ていかないとな。 <a href="https://t.co/gbUOghVnj0">pic.twitter.com/gbUOghVnj0</a></p>&mdash; Kata-Oka/鬼才トイレエンジニア/Swift→Flutter, Go, Elmを書くよ！ (@je_suis_laterre) <a href="https://twitter.com/je_suis_laterre/status/1131071329275301888?ref_src=twsrc%5Etfw">2019年5月22日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- Loading 10s ==> 0.5s
+- Streaming Smooth
+- Stable
 
++++
+
+### Demo
+
+https://twitter.com/je_suis_laterre/status/1131071329275301888
+
+### 🤗
