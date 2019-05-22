@@ -26,8 +26,9 @@ Elm / Go
 
 ---
 
-### ![PIC](icon.png)
-Rec Loc Japan version 1.0 <br> ON Release at 20/05/2019 !!!
+### Rec Loc Japan 
+Version **1.0** ON Release at 20/05/2019 !!!
+![PIC](icon.png)
 
 +++
 
