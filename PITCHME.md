@@ -45,7 +45,7 @@ ABOUT **30** DAYS
 
 - Widget
 - Video
-- JSON Parsing
+- Nested JSON Parsing
 
 --- 
 
@@ -110,3 +110,14 @@ Github:[chewie](https://github.com/brianegan/chewie)
 https://twitter.com/je_suis_laterre/status/1131071329275301888
 
 ### 🤗
+
+---
+
+### HOW TO JSON PARSING ?
+😦
+
++++
+
+### NESTED JSON
+
+---?code=src/sample.json&lang=json&color=#1E1F21&title=Nested JSON
