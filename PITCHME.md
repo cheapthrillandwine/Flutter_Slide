@@ -98,5 +98,5 @@ ABOUT **30** DAYS
 
 ### Chewie
 
-![Cartoon](recloc.MP4)
+![Cartoon](https://s3-ap-northeast-1.amazonaws.com/recloc-video-test/recloc.MP4)
 
