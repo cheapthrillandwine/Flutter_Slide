@@ -144,6 +144,8 @@ https://twitter.com/je_suis_laterre/status/1131071329275301888
 }]
 ```
 
++++
+
 ### MODELS
 
 ```dart
@@ -201,3 +203,30 @@ class Image {
   }
 }
 ```
+
++++
+
+### Future / asnyc / await
+
+```dart
+Future <List<Article>> getData() async {
+  List<Article> articleList;
+  final String url = 'http://api.hogehoge.com/articles/';
+  final resp = await http
+      .get(Uri.encodeFull(url), headers: {"Accept": "application/json"}); 
+
+   if (resp.statusCode == 200) {
+     var data = json.decode(resp.body);
+     var rest = data[0]["images"] as List;
+     print(rest);
+     articleList = rest.map<Article>((json) => Article.fromJson(json)).toList();
+   } else
+       throw Exception('We have not download data...');
+   print("List Size: ${articleList.length}");   
+   return articleList;  
+}
+```
+
++++
+
+### 😆 
