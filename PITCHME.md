@@ -118,6 +118,4 @@ https://twitter.com/je_suis_laterre/status/1131071329275301888
 
 +++
 
-### NESTED JSON
-
 ---?code=sample.json&lang=json&color=#1E1F21&title=Nested JSON
