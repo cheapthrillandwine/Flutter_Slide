@@ -22,20 +22,17 @@ Elm / Go
 
 --- 
 
-### LIFE PEPPER
-
 ![PIC](lifepepper.png)
-
 
 ---
 
 ### Rec Loc Japan version 1.0 <br> ON Release at 20/05/2019 !!!
 
++++
+
+![PIC](ReclocJapan.png)
+
 ---
-
-### Rec Loc
-
-
 
 ### HOW MANY DEVELOPERS ?
 
