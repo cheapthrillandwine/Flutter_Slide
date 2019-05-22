@@ -118,7 +118,7 @@ https://twitter.com/je_suis_laterre/status/1131071329275301888
 
 +++
 
-### NEWSTED JSON
+### NESTED JSON
 
 ```json
 [{
@@ -142,4 +142,62 @@ https://twitter.com/je_suis_laterre/status/1131071329275301888
     }
   ]
 }]
+```
+
+### MODELS
+
+```dart
+// please access this api key http://api.recloc.tv/channels
+class Article {
+  final int id;
+  final String name;
+  final String title;
+  final Image images;
+
+  Channel({
+    this.id, 
+    this.name, 
+    this.title,
+    this.images});
+
+  factory Article.fromJson(Map<String, dynamic> json){
+    // var list = json['images'] as List;
+    // print(list.runtimeType);
+
+    return Article(
+      id: json['id'],
+      name: json['name'],
+      title: json['title'],
+      images: Article.fromJson(json['images'])
+    );
+  }
+}
+
+class Image {
+  final int imagesId;
+  final String imageName;
+  final String title;
+  final String imageUrl;
+  final String videoUrl;
+  
+  Image(
+    {
+    this.id, 
+    this.imageName, 
+    this.title,
+    this.imageUrl, 
+    this.videoUrl, 
+    }
+  );
+
+  factory Image.fromJson(Map<String, dynamic> json){
+    return Image(
+      imagesId: json['id'],
+      imageName: json['imageName'],
+      title: json['title'],
+      imagesId: json['imageUrl'],
+      videoUrl: json['videoUrl'],
+    );
+  }
+}
 ```
