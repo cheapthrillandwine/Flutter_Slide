@@ -35,7 +35,7 @@ Elm / Go
 
 ### Rec Loc
 
-![PIC](ReclocJapan.png)
+
 
 ### HOW MANY DEVELOPERS ?
 
